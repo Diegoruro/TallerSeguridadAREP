@@ -13,7 +13,6 @@ import java.security.cert.CertificateException;
 import java.util.ArrayList;
 
 import static spark.Spark.*;
-
 public class SparkWeb {
     public static void main(String... args){
         port(getPort());
